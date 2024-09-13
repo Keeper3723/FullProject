@@ -1,0 +1,4 @@
+rootProject.name = 'FullProject'
+include 'database'
+include 'client_api'
+
